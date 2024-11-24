@@ -30,6 +30,6 @@ namespace EmployeesCh12.Models
 
         //Navigation Properties
         public Department? Department { get; set; } = null!;
-        public Benefits? Benfits { get; set; } = null!;
+        public Benefits? Benefits { get; set; } = null!;
     }
 }
